@@ -61,7 +61,7 @@ Please read the [**code of conduct**](https://github.com/ZupIT/beagle-build-plug
 
 ## **License**
 
-[**Apache License 2.0**](https://github.com/ZupIT/beagle-ios-templates/blob/master/LICENSE).
+[**Apache License 2.0**](https://github.com/ZupIT/beagle-build-plugins/blob/master/LICENSE).
 
 ## **Community**
 Do you have any question about Beagle? Let's chat in our [**forum**](https://forum.zup.com.br/).
